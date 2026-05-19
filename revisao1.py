@@ -1,4 +1,4 @@
-nome = "kof"
+nome = ("kof")
 idade = 25
 altura = 1.83
 pronto_para_seguir = True
